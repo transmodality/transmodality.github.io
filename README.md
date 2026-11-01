@@ -8,7 +8,7 @@ at <https://transmodality.github.io/>. The root page redirects to the latest wor
   - `index.html` — the whole site (Tailwind CSS via CDN, Inter font). No build step.
   - `assets/people/` — square, web-sized headshots used on the page.
   - `assets/figures/` — the "Transmodal Robot Tasks" sketch from the proposal.
-  - `media/` — original full-resolution photos (not referenced by the page).
+  - `media/` — original photos, including images used for Chan Lee and Jeremy Fishel.
   - The source proposal PDF is kept locally and is not committed (see `.gitignore`).
 
 ## Publish on GitHub Pages
@@ -26,4 +26,4 @@ python3 -m http.server 8000
 ## Things to fill in later
 
 Search `icra27/index.html` for `TBA` and `TBD`: workshop day and room, submission deadlines,
-the submission portal link, the fourth speaker, and award winners.
+the submission portal link, and award winners.
